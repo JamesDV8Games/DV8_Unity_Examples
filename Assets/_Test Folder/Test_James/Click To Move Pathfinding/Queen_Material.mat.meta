@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/_Test Folder/Test_James/Click To Move Pathfinding/Queen_Material.mat.meta
 guid: ff8d1d617ed82f44bb230be03b63ddf8
 NativeFormatImporter:
+=======
+guid: 3fb8c7783392e3d4d93314df17cba164
+DefaultImporter:
+>>>>>>> 0896a86eadd2698585d12391066c1a427573aafe:Assets/_Test Folder/Test_James/JamesMaterial/MyMaterial.unity.meta
   externalObjects: {}
   mainObjectFileID: 2100000
   userData: 

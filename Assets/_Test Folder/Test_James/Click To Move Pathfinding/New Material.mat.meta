@@ -1,6 +1,12 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/_Test Folder/Test_James/Click To Move Pathfinding/New Material.mat.meta
 guid: c130108e6f839cb43be778ae070efecb
 NativeFormatImporter:
+=======
+guid: b34ede01fface6c48828f8fcd676ed1c
+folderAsset: yes
+DefaultImporter:
+>>>>>>> 0896a86eadd2698585d12391066c1a427573aafe:Assets/_Test Folder/Test_Kiera.meta
   externalObjects: {}
   mainObjectFileID: 2100000
   userData: 
